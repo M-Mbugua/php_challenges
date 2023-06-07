@@ -1,3 +1,4 @@
+<?php
 class TypingGame extends TestCase
 {
 	public function tests()
@@ -8,3 +9,4 @@ class TypingGame extends TestCase
 		$this->assertSame([1, 1, 1], correctStream(['starry', 'wind', 'skies'], ['starry', 'wind', 'skies']));
 	}
 }
+?>

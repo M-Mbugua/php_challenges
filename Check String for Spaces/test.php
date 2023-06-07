@@ -1,3 +1,4 @@
+<?php
 class IncludesWhitespaces extends TestCase
 {
 	public function tests()
@@ -11,3 +12,4 @@ class IncludesWhitespaces extends TestCase
 		$this->assertEquals(hasSpaces(",./;'[]-="), false);
 	}
 }
+?>

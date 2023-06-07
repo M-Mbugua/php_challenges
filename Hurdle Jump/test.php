@@ -1,3 +1,4 @@
+<?php
 class HurdleJumpTests extends TestCase
 {
 	public function tests()
@@ -11,3 +12,4 @@ class HurdleJumpTests extends TestCase
 		$this->assertEquals(true, (hurdleJump([], 4))); 
 	}
 }
+?>

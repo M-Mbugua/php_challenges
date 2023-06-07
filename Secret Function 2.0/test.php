@@ -1,3 +1,4 @@
+<?php
 class Secret extends TestCase
 {
 	public function tests()
@@ -11,3 +12,4 @@ class Secret extends TestCase
 }
 
 // Author: BijogFc24
+?>

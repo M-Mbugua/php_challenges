@@ -1,3 +1,4 @@
+<?php
 function hurdleJump($hurdles, $jumpHeight) {
 	foreach($hurdles as $hurdle)
 	{
@@ -5,3 +6,4 @@ function hurdleJump($hurdles, $jumpHeight) {
 	}
 	return true;
 }
+?>
