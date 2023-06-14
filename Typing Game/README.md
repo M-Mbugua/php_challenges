@@ -1,4 +1,4 @@
-#Typing Game
+# Typing Game
 
 You're in the midst of creating a typing game.
 
@@ -10,7 +10,7 @@ Correct Array: ["cat", "blue", "sky", "umbrella", "paddy"]
 
 Output: [1, 1, -1, -1, 1]
 
-##Examples
+## Examples
 
 correctStream(
   ["it", "is", "find"],
@@ -22,6 +22,6 @@ correctStream(
   ["april", "showers", "bring", "may", "flowers"]
 ) ➞ [1, -1, 1, 1, 1]
 
-##Notes
+## Notes
 
 The input array lengths will always be the same.
