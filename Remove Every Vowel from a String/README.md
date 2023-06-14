@@ -1,8 +1,8 @@
-#Remove Every Vowel from a String
+# Remove Every Vowel from a String
 
 Create a function that takes a string and returns a new string with all vowels removed.
 
-##Examples
+## Examples
 
     removeVowels("I have never seen a thin person drinking Diet Coke.")
     ➞ " hv nvr sn  thn prsn drnkng Dt Ck."
@@ -13,7 +13,7 @@ Create a function that takes a string and returns a new string with all vowels r
     removeVowels("Happy Thanksgiving to all--even the haters and losers!")
     ➞ "Hppy Thnksgvng t ll--vn th htrs nd lsrs!"
 
-##Notes
+## Notes
 
 - "y" is not considered a vowel.
 - Expect a valid string for all test cases.
