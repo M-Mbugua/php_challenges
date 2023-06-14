@@ -12,15 +12,15 @@ Output: [1, 1, -1, -1, 1]
 
 ## Examples
 
-correctStream(
-  ["it", "is", "find"],
-  ["it", "is", "fine"]
-) ➞ [1, 1, -1]
+    correctStream(
+      ["it", "is", "find"],
+      ["it", "is", "fine"]
+    ) ➞ [1, 1, -1]
 
-correctStream(
-  ["april", "showrs", "bring", "may", "flowers"],
-  ["april", "showers", "bring", "may", "flowers"]
-) ➞ [1, -1, 1, 1, 1]
+    correctStream(
+      ["april", "showrs", "bring", "may", "flowers"],
+      ["april", "showers", "bring", "may", "flowers"]
+    ) ➞ [1, -1, 1, 1, 1]
 
 ## Notes
 
