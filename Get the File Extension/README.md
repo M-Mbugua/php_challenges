@@ -1,8 +1,8 @@
-#Get the File Extension
+# Get the File Extension
 
 Write a function that maps files to their extension names.
 
-##Examples
+## Examples
 
 getExtension(["code.html", "code.css"])
 ➞ ["html", "css"]
